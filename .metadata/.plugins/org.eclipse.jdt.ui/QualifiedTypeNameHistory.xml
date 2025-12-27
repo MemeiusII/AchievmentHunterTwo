@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.bukkit.plugin.java.JavaPlugin"/>
+<fullyQualifiedTypeName name="org.bukkit.event.HandlerList"/>
+<fullyQualifiedTypeName name="org.bukkit.event.Event"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="org.bukkit.command.CommandSender"/>
+<fullyQualifiedTypeName name="org.bukkit.command.Command"/>
+<fullyQualifiedTypeName name="me.EthanBilbrey.AchievmentHunterTwo.Challenges.ChallengeManager"/>
+<fullyQualifiedTypeName name="org.bukkit.entity.Player"/>
+<fullyQualifiedTypeName name="org.bukkit.ChatColor"/>
+<fullyQualifiedTypeName name="me.EthanBilbrey.AchievmentHunterTwo.Main"/>
+<fullyQualifiedTypeName name="org.bukkit.Sound"/>
+<fullyQualifiedTypeName name="me.EthanBilbrey.AchievmentHunterTwo.MyEvent"/>
+<fullyQualifiedTypeName name="me.EthanBilbrey.AchievmentHunterTwo.Challenges.Tag"/>
+<fullyQualifiedTypeName name="org.bukkit.inventory.Inventory"/>
+<fullyQualifiedTypeName name="me.EthanBilbrey.AchievmentHunterTwo.Challenges.FireryRevenge"/>
+<fullyQualifiedTypeName name="org.bukkit.event.entity.PotionSplashEvent"/>
+<fullyQualifiedTypeName name="org.bukkit.potion.PotionType"/>
+<fullyQualifiedTypeName name="org.bukkit.potion.Potion"/>
+<fullyQualifiedTypeName name="net.minecraft.server.v1_16_R3.Material"/>
+<fullyQualifiedTypeName name="org.bukkit.potion.PotionEffectType"/>
+<fullyQualifiedTypeName name="org.bukkit.potion.PotionEffect"/>
+<fullyQualifiedTypeName name="org.bukkit.Location"/>
+<fullyQualifiedTypeName name="org.bukkit.entity.TNTPrimed"/>
+<fullyQualifiedTypeName name="org.bukkit.event.entity.EntityDamageEvent"/>
+<fullyQualifiedTypeName name="me.EthanBilbrey.AchievmentHunterTwo.Challenges.ExplosiveSurvivor"/>
+<fullyQualifiedTypeName name="org.bukkit.event.player.PlayerItemBreakEvent"/>
+<fullyQualifiedTypeName name="org.bukkit.Material"/>
+<fullyQualifiedTypeName name="org.bukkit.inventory.ItemStack"/>
+<fullyQualifiedTypeName name="me.EthanBilbrey.AchievmentHunterTwo.Challenges.BrokenTool"/>
+<fullyQualifiedTypeName name="me.EthanBilbrey.AchievmentHunterTwo.Challenges.Violence"/>
+<fullyQualifiedTypeName name="org.bukkit.event.entity.PlayerDeathEvent"/>
+<fullyQualifiedTypeName name="me.EthanBilbrey.AchievmentHunterTwo.Challenges.Suicide"/>
+<fullyQualifiedTypeName name="org.bukkit.Bukkit"/>
+<fullyQualifiedTypeName name="org.bukkit.event.Listener"/>
+<fullyQualifiedTypeName name="me.EthanBilbrey.AchievmentHunterTwo.Challenges.LlamaSpit"/>
+<fullyQualifiedTypeName name="org.bukkit.event.EventHandler"/>
+<fullyQualifiedTypeName name="org.bukkit.event.entity.EntityDamageByEntityEvent"/>
+<fullyQualifiedTypeName name="org.bukkit.entity.Llama"/>
+<fullyQualifiedTypeName name="org.bukkit.event.entity.EntityDamageEvent.DamageCause"/>
+<fullyQualifiedTypeName name="org.bukkit.entity.Projectile"/>
+</qualifiedTypeNameHistroy>
